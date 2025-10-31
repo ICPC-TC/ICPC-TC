@@ -42,10 +42,12 @@ Here’s how you can join or contribute:
 
 ## 📊 Community Stats
 <p align="center"> <a href="https://github.com/ICPC-TC"> <img src="https://github-readme-stats.vercel.app/api?username=ICPC-TC&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="160" alt="ICPC-TC GitHub Stats" /> </a> <a href="https://github.com/ICPC-TC"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ICPC-TC&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="160" alt="ICPC-TC Top Languages" /> </a> </p> <p align="center"> <a href="https://github.com/ICPC-TC/ICPC-TC/graphs/contributors"> <img src="https://contrib.rocks/image?repo=ICPC-TC/ICPC-TC" alt="Contributors" /> </a> </p>
+
 ## 💬 Connect With Us
 <p align="center"> <a href="https://www.facebook.com/ICPC.Tanta" target="_blank"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/> </a> 
 <a href="https://www.linkedin.com/company/icpc-tanta-community" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a>
 <a href="mailto:tanta.icpc@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> </p>
+
 ## ✨ Community Motto
 💡 “Code together. Think smarter. Grow stronger.”
 
