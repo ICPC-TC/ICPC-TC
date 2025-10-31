@@ -38,14 +38,7 @@ We aim to prepare students for **ICPC** and other global programming contests th
 We welcome everyone who’s passionate about **learning**, **coding**, and **teamwork** 💡  
 Here’s how you can join or contribute:
 
-```bash
-# Steps to Contribute
-🍴 Fork this repository
-🌱 Create a new branch: git checkout -b feature/your-feature
-💾 Commit your changes: git commit -m "Add new feature"
-🚀 Push and open a pull request
-Whether you’re just starting your problem-solving journey or already competing in ICPC —
-you belong here.
+
 
 ## 📊 Community Stats
 <p align="center"> <a href="https://github.com/ICPC-TC"> <img src="https://github-readme-stats.vercel.app/api?username=ICPC-TC&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="160" alt="ICPC-TC GitHub Stats" /> </a> <a href="https://github.com/ICPC-TC"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ICPC-TC&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="160" alt="ICPC-TC Top Languages" /> </a> </p> <p align="center"> <a href="https://github.com/ICPC-TC/ICPC-TC/graphs/contributors"> <img src="https://contrib.rocks/image?repo=ICPC-TC/ICPC-TC" alt="Contributors" /> </a> </p>
@@ -57,4 +50,4 @@ you belong here.
 💡 “Code together. Think smarter. Grow stronger.”
 
 
-<p align="center"> <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </p> <p align="center"> <b>Made with ❤️ by the ICPC Tanta Community Team</b> </p> ```
+<p align="center"> <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </p> <p align="center"> <b>Made with ❤️ by the ICPC Tanta Community Team</b> </p>
